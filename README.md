@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# MyFlix React App
+This project builds a simple React Application for displaying movies based on title searched by user. This project uses the OMDB API for fetching movie objects. Below you can find details to clone and get started with the app.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
